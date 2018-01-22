@@ -1,0 +1,2035 @@
+# Blender MTL File: 'low_poly_death_house.blend'
+# Material Count: 193
+
+newmtl Bed_Sheet
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.183841 0.160005 0.049601
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Bed_Sheet.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.183841 0.160005 0.049601
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Bed_Sheet.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.183841 0.160005 0.049601
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Bed_Sheet.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.183841 0.160005 0.049601
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Blue_Bed_sheet
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.052729 0.086249 0.183841
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Bed_sheet.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.052729 0.086249 0.183841
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Blue_Book
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.027474 0.003218 0.067851
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Book.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.027474 0.003218 0.067851
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_secret/floor2_secret.png
+
+newmtl Blue_Book.001_floor2_walls.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.027474 0.003218 0.067851
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.020149 0.070924 0.087569
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor1_walls/floor1_walls.png
+
+newmtl Blue_Wall.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.008
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.009
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.010
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.011
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.012
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.013
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.014
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.015
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.016
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.017
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/UVs/attic_stairs.png
+
+newmtl Blue_Wall.018
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.019
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.020
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.021
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.022
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Wall.027
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall.028
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd floor3_ground.png
+
+newmtl Blue_Wall.029
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall.030
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall.032
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Blue_Wall.033
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall.034
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall.035
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall.036
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_ground/floor2_ground.png
+
+newmtl Blue_Wall.037
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall.038
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall.039
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Blue_Wall.040
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Blue_Wall.041
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Blue_Wall.042
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Blue_Wall.043
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Blue_Wall.044
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Blue_Wall.045
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.023645 0.081793 0.099817
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Blue_Wall.046
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Blue_Wall.047
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Blue_Wall.048
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Blue_Wall.049
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Blue_Wall.050
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Blue_Wall.051
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.020149 0.070924 0.087569
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Blue_Wall.052
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_floor/attic_floor.png
+
+newmtl Blue_Wall_Node.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.027344 0.099349 0.106748
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Blue_Wall_Untitled.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.020149 0.070924 0.087569
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Bricked_Window
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Bricked_Window.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Brown_Bedsheet
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.170711 0.096781 0.071538
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Brown_Bedsheet.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.170711 0.096781 0.071538
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Collision-Box
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Collision-Box.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Dark_Metal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.009773 0.009773 0.009773
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Dark_Metal.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.009773 0.009773 0.009773
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Dark_Metal.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.009773 0.009773 0.009773
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor1_walls/floor1_walls.png
+
+newmtl Floor
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.074149 0.077809 0.307499
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Floor.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.074149 0.077809 0.307499
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Floor.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.074149 0.077809 0.307499
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor1_ground/floor1_ground.png
+
+newmtl Floor.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.074149 0.077809 0.307499
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Floor.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.074149 0.077809 0.307499
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Floor.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.074149 0.077809 0.307499
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Floor.008
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.074149 0.077809 0.307499
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd floor3_ground.png
+
+newmtl Floor.009
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.074149 0.077809 0.307499
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_ground/floor2_ground.png
+
+newmtl Floor.010
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.074149 0.077809 0.307499
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_floor/attic_floor.png
+
+newmtl Good_Wood
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.004
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor1_walls/floor1_walls.png
+
+newmtl Good_Wood.006
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.007
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.008
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.009
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.010
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.011
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.012
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.013
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.014
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.015
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.016
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.017
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Good_Wood.025
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Good_Wood.026
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_secret/floor2_secret.png
+
+newmtl Good_Wood.026_floor2_walls.002
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Good_Wood.027
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Good_Wood.028
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Good_Wood.029
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Good_Wood.030
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Good_Wood.031
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Good_Wood.032
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Good_Wood.033
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Good_Wood.034
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Good_Wood.035
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Good_Wood.036
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Good_Wood.037
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Good_Wood.038
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Good_Wood.039
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Good_Wood_broom_uv
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/UVs/broom.png
+
+newmtl Good_Wood_door_uv
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Green_Book
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.010650 0.050972 0.004528
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Green_Book.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.010650 0.050972 0.004528
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_secret/floor2_secret.png
+
+newmtl Green_Book.001_floor2_walls.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.010650 0.050972 0.004528
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Light_Blocker_Node
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Light_Blocker_Node.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Light_Grey_Stone
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.152350 0.152350 0.152350
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Light_Grey_Stone.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.152350 0.152350 0.152350
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_armour/armour.png
+
+newmtl Light_Grey_Stone.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.152350 0.152350 0.152350
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Light_Grey_Stone_broom_uv
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.152350 0.152350 0.152350
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/UVs/broom.png
+
+newmtl Light_Wood
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.176201 0.114084 0.066382
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Light_Wood.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.176201 0.114084 0.066382
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Light_Wood.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.176201 0.114084 0.066382
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor1_walls/floor1_walls.png
+
+newmtl Light_Wood.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.176201 0.114084 0.066382
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.183841 0.160005 0.049601
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.183841 0.160005 0.049601
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Metal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.207839 0.184481 0.184481
+Ks 0.700000 0.700000 0.700000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Metal.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.207839 0.184481 0.184481
+Ks 0.700000 0.700000 0.700000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor1_walls/floor1_walls.png
+
+newmtl None
+Ns 0
+Ka 0.012806 0.001320 0.000631
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Piano_Black
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.010246 0.010246 0.010246
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Piano_Black.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.010246 0.010246 0.010246
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Piano_White
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.412274 0.121405
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Piano_White.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.412274 0.121405
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Pillow
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.339707 0.264386 0.260252
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Pillow.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.339707 0.264386 0.260252
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Pillow.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.339707 0.264386 0.260252
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Pillow.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.339707 0.264386 0.260252
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Pillow.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.339707 0.264386 0.260252
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Pillow.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.339707 0.264386 0.260252
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Pink_Bedsheet
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.153694 0.002285 0.003937
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Pink_Bedsheet.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.153694 0.002285 0.003937
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Purple_Book
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.038344 0.001255 0.023347
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Purple_Book.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.038344 0.001255 0.023347
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_secret/floor2_secret.png
+
+newmtl Purple_Book.001_floor2_walls.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.038344 0.001255 0.023347
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Red_Book
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.113913 0.011684 0.010882
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Red_Book.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.113913 0.011684 0.010882
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_secret/floor2_secret.png
+
+newmtl Red_Book.001_floor2_walls.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.113913 0.011684 0.010882
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Stone_Floor
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.061363 0.061363 0.061363
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Stone_Floor.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.061363 0.061363 0.061363
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd floor3_ground.png
+
+newmtl Wall_Accent
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wall_Accent.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wall_Accent.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Wall_Accent.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor1_walls/floor1_walls.png
+
+newmtl Wall_Accent.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wall_Accent.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wall_Accent.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wall_Accent.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wall_Accent.008
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wall_Accent.012
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Wall_Accent.013
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Wall_Accent.014
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Wall_Accent.015
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Wall_Accent.017
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Wall_Accent.018
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Wall_Accent.019
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Wall_Accent_Node
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.005428 0.022606 0.033429
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Wall_Accent_Node.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.005428 0.022606 0.033429
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor1_walls/floor1_walls.png
+
+newmtl Wall_Accent_Node.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.005428 0.022606 0.033429
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Wall_Accent_Node.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.005428 0.022606 0.033429
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Wall_Accent_Node.008
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.005428 0.022606 0.033429
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Wall_Accent_Node.014
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.005428 0.022606 0.033429
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Wall_Accent_Node.020
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.005428 0.022606 0.033429
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Wall_Accent_Untitled.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl White_Cloth
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.440509 0.440509 0.440509
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl White_Cloth.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.440509 0.440509 0.440509
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Window
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Window.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Window.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Window.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor1_walls/floor1_walls.png
+
+newmtl Window.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Window.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Window.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Window.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Window.011
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Window.012
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_walls/floor2_walls.png
+
+newmtl Window.013
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Window.015
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Window.016
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Window.017
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Window_Untitled.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor3_walls/floor3_walls.png
+
+newmtl Wood
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wood.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
+
+newmtl Wood_Metal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.377280 0.001081
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wood_Metal.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.377280 0.001081
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wood_Metal.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.377280 0.001081
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/floor2_secret/floor2_secret.png
+
+newmtl Wood_Metal.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.377280 0.001081
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Documents/DnD/Curse of Strahd/Death House/objects/attic_walls/attic_walls.png
