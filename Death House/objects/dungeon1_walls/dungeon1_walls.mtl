@@ -10,6 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Dungeon_Accent.002
 Ns 96.078431
@@ -20,6 +21,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Dungeon_Bed.002
 Ns 96.078431
@@ -30,6 +32,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Dungeon_Bed_2.002
 Ns 96.078431
@@ -40,6 +43,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Dungeon_Wall.002
 Ns 96.078431
@@ -50,6 +54,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Dungeon_Wood.002
 Ns 174.509804
@@ -60,6 +65,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Good_Wood.051
 Ns 174.509804
@@ -70,6 +76,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Good_Wood.052
 Ns 174.509804
@@ -80,6 +87,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Good_Wood.053
 Ns 174.509804
@@ -90,6 +98,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Good_Wood.054
 Ns 174.509804
@@ -100,6 +109,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Good_Wood.055
 Ns 174.509804
@@ -110,6 +120,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Good_Wood.056
 Ns 174.509804
@@ -120,6 +131,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Light_Grey_Stone.004
 Ns 96.078431
@@ -130,6 +142,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Material.005
 Ns 96.078431
@@ -140,6 +153,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Pillow.008
 Ns 96.078431
@@ -150,6 +164,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Stone_Floor.003
 Ns 96.078431
@@ -160,6 +175,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
 
 newmtl Window.010
 Ns 96.078431
@@ -170,6 +186,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
+map_Kd dungeon1_walls.png
 
 newmtl Wood_Metal.008
 Ns 96.078431
@@ -180,3 +197,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd dungeon1_walls.png
