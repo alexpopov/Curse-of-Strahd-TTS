@@ -1,6 +1,5 @@
 # Blender v2.79 (sub 0) OBJ File: 'low_poly_death_house.blend'
 # www.blender.org
-mtllib dungeon2_ground.mtl
 o Cube.514_Cube.862
 v -3.287728 0.062398 22.700827
 v -3.287728 2.062398 22.700827
@@ -273,7 +272,6 @@ vn 0.9657 0.0000 -0.2596
 vn 0.6472 0.0000 -0.7623
 vn -0.6480 0.0000 -0.7617
 vn -0.7734 0.0000 0.6339
-usemtl Dungeon_Floor.004
 s off
 f 2/1/1 9/2/1 1/3/1
 f 4/4/2 10/5/2 3/6/2
