@@ -1,0 +1,90 @@
+# Blender MTL File: 'low_poly_death_house.blend'
+# Material Count: 8
+
+newmtl Blue_Wall.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Desktop/floor1_uv_hd_2.png
+
+newmtl Dark_Metal.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.009773 0.009773 0.009773
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Desktop/floor1_uv_hd_2.png
+
+newmtl Good_Wood.004
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.101896 0.039259 0.033346
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Desktop/floor1_uv_hd_2.png
+
+newmtl Light_Wood.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.176201 0.114084 0.066382
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Desktop/floor1_uv_hd_2.png
+
+newmtl Metal.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.207839 0.184481 0.184481
+Ks 0.700000 0.700000 0.700000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Desktop/floor1_uv_hd_2.png
+
+newmtl Wall_Accent.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Desktop/floor1_uv_hd_2.png
+
+newmtl Wall_Accent_Node.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.005428 0.022606 0.033429
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexpopov/Desktop/floor1_uv_hd_2.png
+
+newmtl Window.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.081050 0.003268 0.102591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/alexpopov/Desktop/floor1_uv_hd_2.png
